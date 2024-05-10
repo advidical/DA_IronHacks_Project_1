@@ -4,7 +4,7 @@ This is the first quest project as part of IronHacks bootcamp.
 The goal of this first 'Quest' project was to build and refine a 
 Text-Based Exscape Room Game using Python Data Structures, Functions,
 and Control-Flow Structures (No external libraries/Engines)
-We huild the project with Jupyter Notebook and Google Colab in mind,
+We build the project with Jupyter Notebook and Google Colab in mind,
 Storing the main game logic and object as Python Modules
 
 ### Installation:
